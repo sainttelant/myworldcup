@@ -1,0 +1,901 @@
+,Team,GoalsConceded,GoalsScored
+0,Mexico,4,1
+1,Argentina,4,2
+2,Yugoslavia,6,1
+3,United States,6,1
+4,Belgium,1,0
+5,Paraguay,3,0
+6,Romania,4,0
+7,Peru,1,0
+8,Peru,3,1
+9,Belgium,3,0
+10,Bolivia,4,0
+11,Brazil,2,1
+12,Chile,3,1
+13,Mexico,6,3
+14,France,1,0
+15,Mexico,3,0
+16,France,1,0
+17,Bolivia,4,0
+18,Sweden,2,1
+19,Czechoslovakia,2,1
+20,Austria,3,2
+21,Germany,3,1
+22,Austria,1,0
+23,Spain,1,0
+24,Switzerland,3,2
+25,Spain,1,1
+26,United States,7,1
+27,Belgium,5,2
+28,France,3,2
+29,Argentina,3,2
+30,Romania,2,1
+31,Netherlands,3,2
+32,Egypt,4,2
+33,Brazil,3,1
+34,Hungary,2,1
+35,France,3,1
+36,Czechoslovakia,1,1
+37,Czechoslovakia,2,1
+38,Hungary,4,2
+39,Brazil,2,1
+40,Sweden,4,2
+41,Cuba,8,0
+42,Sweden,5,1
+43,Switzerland,2,0
+44,Germany,4,2
+45,Netherlands,3,0
+46,Poland,6,5
+47,Norway,2,1
+48,Belgium,3,1
+49,Romania,3,3
+50,Dutch East Indies,6,0
+51,Germany,1,1
+52,Romania,2,1
+53,Italy,3,2
+54,Paraguay,2,2
+55,Paraguay,2,0
+56,Bolivia,8,0
+57,Spain,2,2
+58,Brazil,2,1
+59,Spain,6,1
+60,Sweden,3,2
+61,Spain,3,1
+62,Sweden,7,1
+63,United States,5,2
+64,Chile,2,0
+65,England,1,0
+66,United States,3,1
+67,Chile,2,0
+68,Mexico,2,1
+69,Yugoslavia,2,0
+70,Mexico,4,1
+71,Switzerland,2,2
+72,Switzerland,3,0
+73,Mexico,4,0
+74,England,1,0
+75,England,4,2
+76,Belgium,4,1
+77,Italy,4,1
+78,Switzerland,7,5
+79,Yugoslavia,2,0
+80,Belgium,4,4
+81,Austria,6,1
+82,Uruguay,4,2
+83,Uruguay,3,1
+84,Hungary,3,2
+85,Brazil,4,2
+86,Italy,2,1
+87,Switzerland,2,0
+88,Scotland,7,0
+89,Mexico,5,0
+90,France,1,0
+91,Yugoslavia,1,1
+92,Turkey,4,1
+93,South Korea,9,0
+94,Mexico,3,2
+95,South Korea,7,0
+96,Turkey,7,2
+97,Czechoslovakia,5,0
+98,Czechoslovakia,2,0
+99,Scotland,1,0
+100,West Germany,8,3
+101,Austria,2,2
+102,Hungary,2,1
+103,Austria,3,0
+104,England,2,2
+105,England,0,0
+106,Austria,2,0
+107,Soviet Union,2,0
+108,West Germany,3,1
+109,Wales,1,0
+110,Northern Ireland,4,0
+111,Soviet Union,2,0
+112,Yugoslavia,1,0
+113,France,5,2
+114,Mexico,4,0
+115,West Germany,6,3
+116,England,1,0
+117,Wales,0,0
+118,Sweden,5,2
+119,Wales,1,1
+120,West Germany,1,3
+121,Czechoslovakia,1,0
+122,Czechoslovakia,2,2
+123,Northern Ireland,3,1
+124,Northern Ireland,2,2
+125,Argentina,6,1
+126,Czechoslovakia,2,1
+127,Hungary,2,1
+128,Scotland,1,1
+129,France,3,2
+130,Scotland,3,2
+131,Scotland,2,1
+132,Yugoslavia,3,3
+133,Mexico,3,0
+134,Wales,1,1
+135,Paraguay,7,3
+136,Czechoslovakia,3,1
+137,Bulgaria,1,0
+138,England,2,1
+139,Argentina,3,1
+140,Bulgaria,6,1
+141,Argentina,0,0
+142,Bulgaria,0,0
+143,West Germany,1,0
+144,Hungary,1,0
+145,England,3,1
+146,Yugoslavia,3,1
+147,Chile,4,2
+148,Yugoslavia,1,0
+149,Spain,2,1
+150,Soviet Union,2,1
+151,Czechoslovakia,3,1
+152,Mexico,1,0
+153,Spain,1,0
+154,Czechoslovakia,0,0
+155,Colombia,2,1
+156,Yugoslavia,2,0
+157,Uruguay,3,1
+158,Uruguay,2,1
+159,Colombia,5,0
+160,Colombia,4,4
+161,Italy,0,0
+162,Italy,2,0
+163,Switzerland,2,1
+164,Chile,2,0
+165,Switzerland,3,0
+166,Mexico,2,0
+167,Switzerland,3,1
+168,Chile,2,1
+169,North Korea,3,0
+170,Chile,2,0
+171,North Korea,1,1
+172,Italy,1,0
+173,Italy,1,0
+174,Argentina,1,0
+175,West Germany,4,2
+176,Hungary,2,1
+177,North Korea,5,3
+178,Soviet Union,2,1
+179,Portugal,2,1
+180,Soviet Union,2,1
+181,Bulgaria,3,1
+182,Uruguay,4,0
+183,Brazil,3,1
+184,Switzerland,2,1
+185,Brazil,3,1
+186,Mexico,1,1
+187,France,2,1
+188,Mexico,2,0
+189,Uruguay,0,0
+190,France,2,0
+191,Switzerland,5,0
+192,Uruguay,0,0
+193,Bulgaria,3,0
+194,West Germany,0,0
+195,Switzerland,2,0
+196,Spain,2,1
+197,Bulgaria,2,0
+198,Hungary,3,1
+199,Spain,2,1
+200,Sweden,0,1
+201,Italy,0,0
+202,England,0,1
+203,Brazil,1,4
+204,Czechoslovakia,2,1
+205,Brazil,2,3
+206,Morocco,3,0
+207,Bulgaria,3,2
+208,Morocco,2,1
+209,Bulgaria,5,2
+210,Peru,3,1
+211,Morocco,1,1
+212,Israel,1,1
+213,Czechoslovakia,1,0
+214,Italy,0,0
+215,Brazil,0,1
+216,Israel,2,0
+217,Sweden,1,0
+218,Soviet Union,0,0
+219,Uruguay,0,1
+220,Peru,4,2
+221,England,3,2
+222,Brazil,1,3
+223,West Germany,4,3
+224,Mexico,4,1
+225,Italy,4,1
+226,El Salvador,3,0
+227,Belgium,4,1
+228,El Salvador,4,0
+229,Belgium,1,0
+230,West Germany,0,1
+231,El Salvador,2,0
+232,Netherlands,1,4
+233,Uruguay,3,0
+234,Haiti,3,1
+235,Argentina,3,2
+236,Haiti,4,1
+237,Italy,2,1
+238,Argentina,4,0
+239,East Germany,1,0
+240,Sweden,0,0
+241,Brazil,1,2
+242,Poland,0,7
+243,Uruguay,1,1
+244,Yugoslavia,0,0
+245,Netherlands,0,2
+246,Brazil,0,3
+247,Yugoslavia,1,1
+248,Zaire,9,0
+249,Brazil,0,0
+250,Scotland,0,2
+251,West Germany,1,0
+252,Chile,0,0
+253,East Germany,1,1
+254,West Germany,0,3
+255,Australia,2,0
+256,Chile,1,0
+257,Netherlands,0,2
+258,Bulgaria,0,0
+259,East Germany,1,1
+260,Italy,1,1
+261,West Germany,0,2
+262,Poland,0,1
+263,Yugoslavia,2,1
+264,Sweden,4,2
+265,West Germany,0,1
+266,Yugoslavia,2,1
+267,Poland,0,1
+268,West Germany,1,2
+269,Brazil,2,0
+270,Iran,4,1
+271,Netherlands,3,2
+272,Netherlands,1,5
+273,West Germany,0,0
+274,West Germany,2,2
+275,Austria,1,0
+276,Netherlands,1,2
+277,Brazil,1,3
+278,Poland,2,0
+279,Poland,0,1
+280,Brazil,0,0
+281,Peru,0,0
+282,Peru,6,0
+283,Netherlands,3,1
+284,Italy,2,1
+285,Brazil,0,3
+286,Iran,1,1
+287,West Germany,3,2
+288,Scotland,3,1
+289,France,2,1
+290,Hungary,2,1
+291,Hungary,3,1
+292,France,2,1
+293,Iran,3,0
+294,Hungary,3,1
+295,Poland,0,0
+296,Mexico,3,1
+297,Mexico,6,0
+298,Italy,0,1
+299,Tunisia,0,0
+300,Austria,1,0
+301,Sweden,1,0
+302,Spain,0,0
+303,Sweden,1,0
+304,Tunisia,1,0
+305,Spain,2,1
+306,Sweden,1,1
+307,Mexico,3,1
+308,Northern Ireland,0,1
+309,Yugoslavia,0,1
+310,Northern Ireland,1,1
+311,Scotland,2,2
+312,Yugoslavia,2,1
+313,New Zealand,5,2
+314,Scotland,4,1
+315,New Zealand,3,0
+316,Soviet Union,2,1
+317,New Zealand,4,0
+318,England,0,0
+319,Soviet Union,0,1
+320,Poland,0,0
+321,England,0,0
+322,Spain,2,1
+323,Argentina,2,1
+324,Brazil,1,3
+325,Brazil,3,2
+326,France,0,1
+327,Northern Ireland,0,0
+328,Belgium,3,0
+329,Honduras,1,1
+330,Peru,5,1
+331,Czechoslovakia,1,1
+332,Poland,0,0
+333,Cameroon,0,0
+334,Peru,1,1
+335,Cameroon,0,0
+336,Cameroon,1,1
+337,Northern Ireland,2,2
+338,Chile,4,1
+339,Austria,0,2
+340,Chile,3,2
+341,Kuwait,1,0
+342,Austria,1,0
+343,El Salvador,10,1
+344,Hungary,4,1
+345,El Salvador,1,0
+346,Hungary,1,1
+347,El Salvador,2,0
+348,France,3,1
+349,Kuwait,1,1
+350,Czechoslovakia,2,0
+351,Kuwait,4,1
+352,Belgium,0,1
+353,Northern Ireland,4,1
+354,Austria,0,1
+355,Algeria,1,2
+356,Italy,0,2
+357,West Germany,3,1
+358,France,3,3
+359,France,3,2
+360,Spain,1,2
+361,Northern Ireland,1,1
+362,Brazil,0,1
+363,Canada,2,0
+364,France,0,3
+365,Canada,2,0
+366,Soviet Union,1,1
+367,Hungary,6,0
+368,France,0,1
+369,Mexico,0,1
+370,Belgium,2,2
+371,Belgium,1,2
+372,Paraguay,1,1
+373,Iraq,1,0
+374,Mexico,1,2
+375,Bulgaria,2,0
+376,Italy,2,3
+377,Bulgaria,1,1
+378,Argentina,1,1
+379,South Korea,3,1
+380,Italy,1,1
+381,France,1,1
+382,Spain,1,5
+383,Paraguay,3,0
+384,West Germany,0,1
+385,France,0,2
+386,Uruguay,1,0
+387,Poland,4,0
+388,Belgium,3,4
+389,Bulgaria,2,0
+390,Algeria,1,0
+391,Brazil,0,3
+392,West Germany,1,1
+393,Belgium,2,0
+394,West Germany,3,2
+395,France,2,4
+396,Spain,0,3
+397,West Germany,0,2
+398,Belgium,1,1
+399,England,2,1
+400,Mexico,0,0
+401,Poland,3,0
+402,Portugal,1,0
+403,Morocco,1,3
+404,England,1,0
+405,Poland,0,0
+406,Uruguay,0,0
+407,West Germany,2,0
+408,Uruguay,6,1
+409,Scotland,2,1
+410,Denmark,0,1
+411,Morocco,0,0
+412,Yugoslavia,0,0
+413,Argentina,1,0
+414,England,2,1
+415,Spain,0,0
+416,West Germany,0,1
+417,Italy,0,1
+418,Belgium,1,0
+419,England,1,1
+420,Uruguay,2,0
+421,Romania,0,0
+422,Netherlands,2,1
+423,Argentina,0,1
+424,Costa Rica,4,1
+425,Colombia,2,1
+426,Italy,1,1
+427,Yugoslavia,1,2
+428,England,2,3
+429,South Korea,2,0
+430,Egypt,1,0
+431,Romania,1,1
+432,Soviet Union,0,4
+433,Sweden,2,1
+434,Scotland,1,0
+435,Costa Rica,1,0
+436,Netherlands,1,1
+437,Romania,2,1
+438,Scotland,1,0
+439,Colombia,0,2
+440,Yugoslavia,4,1
+441,Colombia,1,0
+442,United Arab Emirates,5,1
+443,Colombia,1,1
+444,United Arab Emirates,4,1
+445,Costa Rica,1,2
+446,Soviet Union,2,0
+447,Scotland,1,2
+448,Cameroon,0,1
+449,Romania,0,2
+450,Egypt,0,0
+451,Netherlands,0,0
+452,Egypt,1,1
+453,Republic of Ireland,1,1
+454,Uruguay,0,1
+455,Spain,1,2
+456,Spain,1,3
+457,Uruguay,3,1
+458,Austria,1,0
+459,Czechoslovakia,1,5
+460,United States,1,0
+461,Czechoslovakia,0,1
+462,Czechoslovakia,2,0
+463,United States,2,1
+464,Bulgaria,4,0
+465,Brazil,0,1
+466,Italy,1,2
+467,Sweden,2,2
+468,Germany,2,1
+469,Brazil,2,3
+470,Spain,2,1
+471,United States,1,0
+472,Italy,1,2
+473,Italy,0,0
+474,Republic of Ireland,2,0
+475,Argentina,3,2
+476,Sweden,1,3
+477,Switzerland,3,0
+478,Bulgaria,1,1
+479,Belgium,3,2
+480,Saudi Arabia,2,1
+481,Greece,4,0
+482,Bulgaria,3,0
+483,Nigeria,2,1
+484,Greece,4,0
+485,Bulgaria,0,2
+486,Nigeria,0,2
+487,Republic of Ireland,0,1
+488,South Korea,3,2
+489,Mexico,1,0
+490,Republic of Ireland,2,1
+491,Mexico,1,1
+492,Norway,0,0
+493,Morocco,1,0
+494,Morocco,2,1
+495,Netherlands,1,0
+496,Norway,1,0
+497,Saudi Arabia,0,1
+498,Spain,1,3
+499,Spain,1,1
+500,Switzerland,1,1
+501,Romania,1,3
+502,Switzerland,1,4
+503,Colombia,2,1
+504,Colombia,0,2
+505,Romania,0,1
+506,Sweden,2,2
+507,Russia,2,0
+508,Cameroon,3,0
+509,Russia,3,1
+510,Cameroon,6,1
+511,Sweden,1,1
+512,Bolivia,1,0
+513,South Korea,2,2
+514,Bolivia,0,0
+515,Netherlands,1,2
+516,Scotland,2,1
+517,Nigeria,2,3
+518,Norway,2,2
+519,Bulgaria,0,0
+520,Norway,1,1
+521,Norway,1,2
+522,Iran,2,0
+523,FR Yugoslavia,0,1
+524,Iran,1,2
+525,FR Yugoslavia,2,2
+526,United States,2,0
+527,Iran,1,0
+528,South Korea,1,1
+529,Tunisia,2,0
+530,Saudi Arabia,2,2
+531,Mexico,2,2
+532,Belgium,0,0
+533,Mexico,1,3
+534,Bulgaria,6,1
+535,Paraguay,1,3
+536,Paraguay,0,0
+537,Bulgaria,1,0
+538,South Korea,5,0
+539,Morocco,3,0
+540,Colombia,1,0
+541,England,2,1
+542,Morocco,0,3
+543,Chile,2,2
+544,Austria,1,1
+545,Austria,1,1
+546,Cameroon,3,0
+547,Austria,2,1
+548,Cameroon,1,1
+549,Tunisia,1,0
+550,Denmark,0,1
+551,Denmark,1,1
+552,Saudi Arabia,4,0
+553,Denmark,2,1
+554,Croatia,1,3
+555,Japan,1,0
+556,Tunisia,1,1
+557,England,0,2
+558,South Africa,3,0
+559,Mexico,2,2
+560,Jamaica,5,0
+561,Jamaica,1,2
+562,Denmark,1,4
+563,Mexico,2,1
+564,FR Yugoslavia,2,1
+565,Croatia,0,1
+566,England,2,2
+567,France,0,0
+568,Denmark,3,2
+569,Argentina,2,1
+570,Croatia,0,3
+571,Netherlands,1,1
+572,Croatia,2,1
+573,Croatia,1,2
+574,France,0,3
+575,Croatia,0,1
+576,Croatia,1,0
+577,Paraguay,1,0
+578,Chile,4,1
+579,Norway,1,0
+580,Poland,2,0
+581,Turkey,2,1
+582,Paraguay,1,3
+583,Spain,2,3
+584,Slovenia,1,0
+585,China,3,0
+586,Slovenia,3,1
+587,South Africa,2,2
+588,Uruguay,3,3
+589,France,2,0
+590,Uruguay,0,0
+591,Senegal,1,1
+592,Paraguay,1,0
+593,England,0,3
+594,Senegal,1,2
+595,Republic of Ireland,1,1
+596,United States,0,2
+597,Belgium,2,0
+598,Turkey,0,1
+599,Italy,2,1
+600,Brazil,1,2
+601,United States,1,0
+602,South Korea,0,0
+603,Turkey,0,1
+604,South Korea,1,0
+605,Denmark,1,2
+606,Turkey,1,0
+607,Turkey,2,3
+608,Brazil,0,2
+609,Senegal,0,1
+610,Costa Rica,0,2
+611,China,4,0
+612,Paraguay,3,1
+613,Brazil,2,5
+614,Portugal,3,2
+615,United States,1,1
+616,Poland,4,0
+617,South Korea,0,1
+618,United States,3,1
+619,Cameroon,1,1
+620,Saudi Arabia,8,0
+621,Turkey,1,1
+622,Saudi Arabia,1,0
+623,Germany,0,2
+624,Republic of Ireland,0,3
+625,Nigeria,1,0
+626,Sweden,1,1
+627,Nigeria,2,1
+628,England,0,1
+629,Republic of Ireland,1,1
+630,England,0,0
+631,Argentina,1,1
+632,Russia,3,2
+633,Japan,0,2
+634,Russia,1,0
+635,Tunisia,2,0
+636,Belgium,2,2
+637,Belgium,1,1
+638,Italy,1,1
+639,Ecuador,2,1
+640,Croatia,1,2
+641,Ecuador,2,0
+642,Mexico,0,1
+643,Croatia,1,0
+644,Ukraine,3,0
+645,Portugal,3,1
+646,France,0,1
+647,Italy,0,2
+648,France,0,1
+649,Portugal,0,0
+650,Argentina,1,1
+651,Mexico,2,1
+652,Ghana,3,0
+653,Ukraine,0,0
+654,Australia,1,0
+655,Netherlands,1,0
+656,Ecuador,1,0
+657,Sweden,2,0
+658,France,1,3
+659,France,1,1
+660,Tunisia,1,0
+661,Tunisia,3,1
+662,Angola,1,1
+663,Czech Republic,0,3
+664,Ghana,2,0
+665,Ghana,0,2
+666,United States,1,1
+667,Italy,0,2
+668,Japan,3,1
+669,Croatia,1,0
+670,Croatia,0,0
+671,Australia,2,0
+672,Brazil,1,4
+673,Australia,2,2
+674,Togo,2,1
+675,Switzerland,0,0
+676,South Korea,1,1
+677,Switzerland,0,2
+678,France,0,2
+679,South Korea,2,0
+680,Ukraine,4,0
+681,Mexico,2,1
+682,Saudi Arabia,2,2
+683,Iran,2,0
+684,Portugal,0,1
+685,Costa Rica,4,2
+686,Ecuador,0,2
+687,Poland,1,0
+688,Costa Rica,3,0
+689,Germany,0,3
+690,Poland,1,2
+691,Paraguay,1,0
+692,Sweden,0,0
+693,Trinidad and Tobago,2,0
+694,Paraguay,1,0
+695,England,2,2
+696,Trinidad and Tobago,2,0
+697,Ivory Coast,2,1
+698,Netherlands,0,1
+699,Serbia and Montenegro,6,0
+700,Ivory Coast,2,1
+701,Argentina,0,0
+702,Serbia and Montenegro,3,2
+703,Iran,3,1
+704,Angola,0,0
+705,Ukraine,0,4
+706,United States,2,1
+707,Spain,0,1
+708,Serbia,2,1
+709,Germany,0,1
+710,Australia,1,1
+711,Serbia,0,1
+712,Australia,4,0
+713,Ghana,0,1
+714,Algeria,1,0
+715,England,0,1
+716,Algeria,0,0
+717,Denmark,2,0
+718,Uruguay,0,3
+719,United States,1,1
+720,Argentina,0,2
+721,South Korea,2,2
+722,Nigeria,2,1
+723,South Korea,4,1
+724,Nigeria,1,0
+725,Greece,2,0
+726,South Africa,1,2
+727,Uruguay,0,1
+728,Slovenia,0,1
+729,United States,2,2
+730,Cameroon,1,0
+731,Denmark,1,2
+732,Mexico,1,1
+733,France,0,0
+734,Honduras,2,0
+735,Switzerland,1,0
+736,Switzerland,0,1
+737,Chile,0,1
+738,Ivory Coast,0,3
+739,Brazil,0,0
+740,North Korea,7,0
+741,Japan,1,0
+742,Ivory Coast,3,1
+743,Portugal,0,0
+744,New Zealand,0,0
+745,Italy,3,2
+746,New Zealand,1,1
+747,Paraguay,0,2
+748,Slovakia,1,1
+749,Paraguay,1,1
+750,Netherlands,1,2
+751,Japan,1,3
+752,North Korea,2,1
+753,Mexico,0,2
+754,Honduras,0,0
+755,Spain,0,1
+756,Spain,0,1
+757,Germany,2,3
+758,Netherlands,2,3
+759,Spain,0,1
+760,Germany,0,4
+761,Brazil,2,1
+762,Portugal,1,0
+763,Ghana,1,1
+764,Chile,3,0
+765,Slovakia,2,1
+766,Spain,1,2
+767,Mexico,3,1
+768,England,4,1
+769,Ghana,1,2
+770,South Korea,2,1
+771,Japan,0,0
+772,Germany,0,1
+773,Russia,1,0
+774,South Korea,1,1
+775,Algeria,2,1
+776,Ghana,2,1
+777,Portugal,2,2
+778,Switzerland,1,0
+779,United States,1,2
+780,Portugal,4,0
+781,Iran,3,1
+782,Argentina,2,3
+783,Bosnia and Herzegovina,1,0
+784,Argentina,1,0
+785,Ghana,2,2
+786,Netherlands,0,3
+787,Algeria,2,1
+788,Germany,1,7
+789,Costa Rica,0,0
+790,Belgium,1,0
+791,Colombia,2,1
+792,Germany,0,1
+793,United States,2,1
+794,Algeria,2,4
+795,Iran,1,0
+796,Nigeria,2,0
+797,Greece,1,1
+798,Mexico,2,1
+799,Uruguay,2,0
+800,Chile,1,1
+801,Argentina,0,0
+802,Nigeria,0,0
+803,Uruguay,0,1
+804,France,0,0
+805,Croatia,3,1
+806,Cameroon,1,0
+807,Mexico,0,0
+808,Croatia,0,4
+809,Brazil,1,4
+810,Mexico,1,3
+811,Netherlands,1,5
+812,Australia,3,1
+813,Netherlands,2,3
+814,Chile,0,2
+815,Spain,0,3
+816,Chile,2,0
+817,Greece,3,0
+818,Japan,2,1
+819,Ivory Coast,2,1
+820,Greece,0,0
+821,Colombia,1,4
+822,Ivory Coast,2,1
+823,Costa Rica,1,3
+824,Italy,1,2
+825,England,2,1
+826,Costa Rica,0,1
+827,Russia,1,1
+828,England,0,0
+829,Ecuador,2,1
+830,Honduras,3,0
+831,France,2,5
+832,Ecuador,1,2
+833,Switzerland,0,3
+834,Bosnia and Herzegovina,2,1
+835,Belgium,0,1
+836,England,2,0
+837,Saudi Arabia,5,0
+838,Sweden,2,1
+839,Germany,2,0
+840,Sweden,0,3
+841,Panama,3,0
+842,England,1,2
+843,Tunisia,5,2
+844,Panama,6,1
+845,Belgium,0,1
+846,Tunisia,1,2
+847,Japan,1,2
+848,Senegal,1,2
+849,Senegal,2,2
+850,Colombia,0,3
+851,Mexico,1,2
+852,Poland,0,1
+853,Argentina,4,3
+854,Portugal,2,1
+855,Russia,1,1
+856,Denmark,1,1
+857,Mexico,2,0
+858,Japan,3,2
+859,Switzerland,1,0
+860,England,1,1
+861,France,0,2
+862,England,0,2
+863,Croatia,2,2
+864,Belgium,1,0
+865,England,2,1
+866,Colombia,0,1
+867,Croatia,4,2
+868,South Korea,1,0
+869,Costa Rica,2,2
+870,Uruguay,0,1
+871,Egypt,3,1
+872,Saudi Arabia,1,0
+873,Russia,3,0
+874,Egypt,2,1
+875,Iran,0,1
+876,Spain,3,3
+877,Morocco,1,0
+878,Spain,0,1
+879,Portugal,1,1
+880,Morocco,2,2
+881,Australia,2,1
+882,Denmark,0,1
+883,Mexico,0,1
+884,Australia,1,1
+885,France,0,0
+886,Peru,0,2
+887,Iceland,1,1
+888,Nigeria,2,0
+889,Croatia,0,3
+890,Iceland,2,0
+891,Argentina,1,2
+892,Croatia,1,2
+893,Serbia,0,1
+894,Switzerland,1,1
+895,Costa Rica,2,0
+896,Switzerland,1,2
+897,Brazil,0,2
+898,Peru,1,0
+899,Belgium,1,2
