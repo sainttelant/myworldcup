@@ -1,0 +1,207 @@
+,HomeTeam,AwayTeam,Year,HomeGoals,AwayGoals,TotalGoals
+0,Paraguay,Bolivia,1999,0,0,0
+1,Peru,Japan,1999,3,2,5
+2,Paraguay,Japan,1999,4,0,4
+3,Peru,Bolivia,1999,1,0,1
+4,Bolivia,Japan,1999,1,1,2
+5,Paraguay,Peru,1999,1,0,1
+6,Brazil,Venezuela,1999,7,0,7
+7,Chile,Mexico,1999,0,1,1
+8,Brazil,Mexico,1999,2,1,3
+9,Chile,Venezuela,1999,3,0,3
+10,Brazil,Chile,1999,1,0,1
+11,Mexico,Venezuela,1999,3,1,4
+12,Argentina,Ecuador,1999,3,1,4
+13,Uruguay,Colombia,1999,0,1,1
+14,Argentina,Colombia,1999,0,3,3
+15,Uruguay,Ecuador,1999,2,1,3
+16,Uruguay,Argentina,1999,0,2,2
+17,Colombia,Ecuador,1999,2,1,3
+18,Mexico,Peru,1999,3,3,6
+19,Uruguay,Paraguay,1999,1,1,2
+20,Chile,Colombia,1999,3,2,5
+21,Brazil,Argentina,1999,2,1,3
+22,Uruguay,Chile,1999,1,1,2
+23,Brazil,Mexico,1999,2,0,2
+24,Chile,Mexico,1999,1,2,3
+25,Brazil,Uruguay,1999,3,0,3
+26,Ecuador,Chile,2001,1,4,5
+27,Colombia,Venezuela,2001,2,0,2
+28,Chile,Venezuela,2001,1,0,1
+29,Colombia,Ecuador,2001,1,0,1
+30,Ecuador,Venezuela,2001,4,0,4
+31,Colombia,Chile,2001,2,0,2
+32,Peru,Paraguay,2001,3,3,6
+33,Brazil,Mexico,2001,0,1,1
+34,Brazil,Peru,2001,2,0,2
+35,Paraguay,Mexico,2001,0,0,0
+36,Peru,Mexico,2001,1,0,1
+37,Brazil,Paraguay,2001,3,1,4
+38,Bolivia,Uruguay,2001,0,1,1
+39,Honduras,Costa Rica,2001,0,1,1
+40,Uruguay,Costa Rica,2001,1,1,2
+41,Honduras,Bolivia,2001,2,0,2
+42,Bolivia,Costa Rica,2001,0,4,4
+43,Honduras,Uruguay,2001,1,0,1
+44,Chile,Mexico,2001,0,2,2
+45,Uruguay,Costa Rica,2001,2,1,3
+46,Colombia,Peru,2001,3,0,3
+47,Brazil,Honduras,2001,0,2,2
+48,Mexico,Uruguay,2001,2,1,3
+49,Colombia,Honduras,2001,2,0,2
+50,Uruguay,Honduras,2001,2,2,4
+51,Colombia,Mexico,2001,1,0,1
+52,Venezuela,Colombia,2004,0,1,1
+53,Peru,Bolivia,2004,2,2,4
+54,Colombia,Bolivia,2004,1,0,1
+55,Peru,Venezuela,2004,3,1,4
+56,Venezuela,Bolivia,2004,1,1,2
+57,Peru,Colombia,2004,2,2,4
+58,Mexico,Uruguay,2004,2,2,4
+59,Argentina,Ecuador,2004,6,1,7
+60,Uruguay,Ecuador,2004,2,1,3
+61,Argentina,Mexico,2004,0,1,1
+62,Mexico,Ecuador,2004,2,1,3
+63,Argentina,Uruguay,2004,4,2,6
+64,Costa Rica,Paraguay,2004,0,1,1
+65,Brazil,Chile,2004,1,0,1
+66,Brazil,Costa Rica,2004,4,1,5
+67,Paraguay,Chile,2004,1,1,2
+68,Costa Rica,Chile,2004,2,1,3
+69,Brazil,Paraguay,2004,1,2,3
+70,Peru,Argentina,2004,0,1,1
+71,Colombia,Costa Rica,2004,2,0,2
+72,Paraguay,Uruguay,2004,1,3,4
+73,Mexico,Brazil,2004,0,4,4
+74,Argentina,Colombia,2004,3,0,3
+75,Uruguay,Brazil,2004,1,1,2
+76,Colombia,Uruguay,2004,1,2,3
+77,Argentina,Brazil,2004,2,2,4
+78,Uruguay,Peru,2007,0,3,3
+79,Venezuela,Bolivia,2007,2,2,4
+80,Bolivia,Uruguay,2007,0,1,1
+81,Venezuela,Peru,2007,2,0,2
+82,Peru,Bolivia,2007,2,2,4
+83,Venezuela,Uruguay,2007,0,0,0
+84,Ecuador,Chile,2007,2,3,5
+85,Brazil,Mexico,2007,0,2,2
+86,Brazil,Chile,2007,3,0,3
+87,Mexico,Ecuador,2007,2,1,3
+88,Mexico,Chile,2007,0,0,0
+89,Brazil,Ecuador,2007,1,0,1
+90,Paraguay,Colombia,2007,5,0,5
+91,Argentina,United States,2007,4,1,5
+92,United States,Paraguay,2007,1,3,4
+93,Argentina,Colombia,2007,4,2,6
+94,Colombia,United States,2007,1,0,1
+95,Argentina,Paraguay,2007,1,0,1
+96,Venezuela,Uruguay,2007,1,4,5
+97,Chile,Brazil,2007,1,6,7
+98,Mexico,Paraguay,2007,6,0,6
+99,Argentina,Peru,2007,4,0,4
+100,Uruguay,Brazil,2007,2,2,4
+101,Mexico,Argentina,2007,0,3,3
+102,Uruguay,Mexico,2007,1,3,4
+103,Brazil,Argentina,2007,3,0,3
+104,Colombia,Peru,2011,0,2,2
+105,Argentina,Uruguay,2011,1,1,2
+106,Brazil,Paraguay,2011,0,0,0
+107,Chile,Venezuela,2011,1,2,3
+108,Peru,Uruguay,2011,0,2,2
+109,Paraguay,Venezuela,2011,0,0,0
+110,Peru,Venezuela,2011,4,1,5
+111,Uruguay,Paraguay,2011,3,0,3
+112,Chile,Uruguay,2015,1,0,1
+113,Bolivia,Peru,2015,1,3,4
+114,Argentina,Colombia,2015,0,0,0
+115,Brazil,Paraguay,2015,1,1,2
+116,Chile,Peru,2015,2,1,3
+117,Argentina,Paraguay,2015,6,1,7
+118,Peru,Paraguay,2015,2,0,2
+119,Chile,Argentina,2015,0,0,0
+120,United States,Colombia,2016,0,2,2
+121,Costa Rica,Paraguay,2016,0,0,0
+122,United States,Costa Rica,2016,4,0,4
+123,Colombia,Paraguay,2016,2,1,3
+124,United States,Paraguay,2016,1,0,1
+125,Colombia,Costa Rica,2016,2,3,5
+126,Haiti,Peru,2016,0,1,1
+127,Brazil,Ecuador,2016,0,0,0
+128,Brazil,Haiti,2016,7,1,8
+129,Ecuador,Peru,2016,2,2,4
+130,Ecuador,Haiti,2016,4,0,4
+131,Brazil,Peru,2016,0,1,1
+132,Jamaica,Venezuela,2016,0,1,1
+133,Mexico,Uruguay,2016,3,1,4
+134,Uruguay,Venezuela,2016,0,1,1
+135,Mexico,Jamaica,2016,2,0,2
+136,Mexico,Venezuela,2016,1,1,2
+137,Uruguay,Jamaica,2016,3,0,3
+138,Panama,Bolivia,2016,2,1,3
+139,Argentina,Chile,2016,2,1,3
+140,Chile,Bolivia,2016,2,1,3
+141,Argentina,Panama,2016,5,0,5
+142,Chile,Panama,2016,4,2,6
+143,Argentina,Bolivia,2016,3,0,3
+144,United States,Ecuador,2016,2,1,3
+145,Peru,Colombia,2016,0,0,0
+146,Argentina,Venezuela,2016,4,1,5
+147,Mexico,Chile,2016,0,7,7
+148,United States,Argentina,2016,0,4,4
+149,Colombia,Chile,2016,0,2,2
+150,United States,Colombia,2016,0,1,1
+151,Argentina,Chile,2016,0,0,0
+152,Brazil,Bolivia,2019,3,0,3
+153,Venezuela,Peru,2019,0,0,0
+154,Bolivia,Peru,2019,1,3,4
+155,Brazil,Venezuela,2019,0,0,0
+156,Peru,Brazil,2019,0,5,5
+157,Bolivia,Venezuela,2019,1,3,4
+158,Argentina,Colombia,2019,0,2,2
+159,Paraguay,Qatar,2019,2,2,4
+160,Colombia,Qatar,2019,1,0,1
+161,Argentina,Paraguay,2019,1,1,2
+162,Qatar,Argentina,2019,0,2,2
+163,Colombia,Paraguay,2019,1,0,1
+164,Uruguay,Ecuador,2019,4,0,4
+165,Japan,Chile,2019,0,4,4
+166,Uruguay,Japan,2019,2,2,4
+167,Ecuador,Chile,2019,1,2,3
+168,Chile,Uruguay,2019,0,1,1
+169,Ecuador,Japan,2019,1,1,2
+170,Brazil,Paraguay,2019,0,0,0
+171,Venezuela,Argentina,2019,0,2,2
+172,Colombia,Chile,2019,0,0,0
+173,Uruguay,Peru,2019,0,0,0
+174,Brazil,Argentina,2019,2,0,2
+175,Chile,Peru,2019,0,3,3
+176,Argentina,Chile,2019,2,1,3
+177,Brazil,Peru,2019,3,1,4
+178,Argentina,Chile,2021,1,1,2
+179,Paraguay,Bolivia,2021,3,1,4
+180,Chile,Bolivia,2021,1,0,1
+181,Argentina,Uruguay,2021,1,0,1
+182,Uruguay,Chile,2021,1,1,2
+183,Argentina,Paraguay,2021,1,0,1
+184,Bolivia,Uruguay,2021,0,2,2
+185,Chile,Paraguay,2021,0,2,2
+186,Uruguay,Paraguay,2021,1,0,1
+187,Bolivia,Argentina,2021,1,4,5
+188,Brazil,Venezuela,2021,3,0,3
+189,Colombia,Ecuador,2021,1,0,1
+190,Colombia,Venezuela,2021,0,0,0
+191,Brazil,Peru,2021,4,0,4
+192,Venezuela,Ecuador,2021,2,2,4
+193,Colombia,Peru,2021,1,2,3
+194,Ecuador,Peru,2021,2,2,4
+195,Brazil,Colombia,2021,2,1,3
+196,Brazil,Ecuador,2021,1,1,2
+197,Venezuela,Peru,2021,0,1,1
+198,Peru,Paraguay,2021,3,3,6
+199,Brazil,Chile,2021,1,0,1
+200,Uruguay,Colombia,2021,0,0,0
+201,Argentina,Ecuador,2021,3,0,3
+202,Brazil,Peru,2021,1,0,1
+203,Argentina,Colombia,2021,1,1,2
+204,Colombia,Peru,2021,3,2,5
+205,Argentina,Brazil,2021,1,0,1
